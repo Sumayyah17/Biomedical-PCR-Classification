@@ -1,5 +1,5 @@
 # Biomedical-PCR-Classification
-Biomedical PCR Classification — Machine Learning & Linear Algebra Project
+Biomedical PCR Classification — Machine Learning & Linear Algebra Project: 
 This project analyses a biomedical dataset containing 38 biochemical, immunological and hematological measurements alongside a binary PCR test result. The goal is to understand the mathematical relationship between these features and the PCR outcome using linear algebra, probability, optimisation, and geometric classification.
 
 The dataset is highly imbalanced, reflecting the rarity of positive PCR cases in clinical screening.
