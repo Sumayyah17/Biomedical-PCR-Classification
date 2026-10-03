@@ -165,7 +165,7 @@ $$
 \frac{1}{2}\|w\|^2+C\sum_{i=1}^{n}\xi_i
 $$
 
-The dual formulation also demonstrates why only observations with non-zero Lagrange multipliers — the **support vectors** — determine the final decision boundary.
+The dual formulation also demonstrates why only observations with non-zero Lagrange multipliers, the **support vectors**, determine the final decision boundary.
 
 ### Performance
 
