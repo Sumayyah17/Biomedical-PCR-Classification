@@ -59,3 +59,17 @@ Minority-class performance:
 Recall: 96%
 
 F1 score: 69%
+
+Technologies Used
+Python
+
+NumPy, Pandas
+
+Matplotlib, Seaborn
+
+Scikit‑Learn
+
+Jupyter Notebook
+
+🎓 Academic Context
+This project was completed as part of my second‑year Mathematics & Data Science coursework, connecting theoretical mathematics with practical biomedical modelling.
